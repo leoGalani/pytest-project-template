@@ -1,2 +1,6 @@
 # pytest-project-template
-Simple test structure guide base on pytest
+This is a simple skeleton for tests using python and pytest.
+
+No, you cant "run" it most of the files are just a place holder BUT if can give a ideia on how you might want to organize your testes, since this is a burning question of ever new tester that face the challange to start a new testing approach.
+
+This might not be pythonic (PR are appreciated) but sure is a good base to do your own thing. 
