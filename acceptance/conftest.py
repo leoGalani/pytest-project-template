@@ -1,7 +1,7 @@
 # pylint: disable=redefined-outer-name
 
 """
-BASE FIXTURE FOR CORA ACCEPTANCE TESTS
+BASE FIXTURE!
 """
 import pytest
 
